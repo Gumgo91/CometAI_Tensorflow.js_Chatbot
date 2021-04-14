@@ -21,6 +21,8 @@
 # Requirements
 - Python 3.7
 - konlpy
+- pandas
+- numpy
 - tensorflow
 
 # Author
@@ -29,3 +31,6 @@ Hyunseung Kong / [@Gumgo91](https://github.com/Gumgo91) (antibody91@naver.com)
 # Thanks to
 Mr. Question Mark / https://github.com/mrquestion
 
+# References
+- Seq2Seq모델 참조: https://github.com/deepseasw/seq2seq_chatbot
+- javascript frontend 참조: https://dororongju.tistory.com/151
