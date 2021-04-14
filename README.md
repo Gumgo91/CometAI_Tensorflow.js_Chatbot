@@ -32,5 +32,6 @@ Hyunseung Kong / [@Gumgo91](https://github.com/Gumgo91) (antibody91@naver.com)
 Mr. Question Mark / https://github.com/mrquestion
 
 # References
-- Seq2Seq모델 참조: https://github.com/deepseasw/seq2seq_chatbot
-- javascript frontend 참조: https://dororongju.tistory.com/151
+- tensorflow.js API: https://js.tensorflow.org/api/latest/?hl=ko
+- Seq2Seq model: https://github.com/deepseasw/seq2seq_chatbot
+- javascript frontend: https://dororongju.tistory.com/151
