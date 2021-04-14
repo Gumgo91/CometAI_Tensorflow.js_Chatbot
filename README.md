@@ -19,10 +19,13 @@
 ![images](images/lstm.png) 
 
 # Requirements
-Python 3.7
-konlpy
-tensorflow
+- Python 3.7
+- konlpy
+- tensorflow
 
-# Authors
-Hyunseung Kong / @Gumgo91 (antibody91@naver.com)
+# Author
+Hyunseung Kong / [@Gumgo91](https://github.com/Gumgo91) (antibody91@naver.com)
+
+# Thanks to
+Mr. Question Mark / https://github.com/mrquestion
 
