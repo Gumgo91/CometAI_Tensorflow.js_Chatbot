@@ -24,6 +24,7 @@
 - pandas
 - numpy
 - tensorflow
+- tensorflowjs
 
 # Author
 Hyunseung Kong / [@Gumgo91](https://github.com/Gumgo91) (antibody91@naver.com)
