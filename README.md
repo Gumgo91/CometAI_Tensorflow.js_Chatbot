@@ -20,11 +20,11 @@
 
 # Requirements
 - Python 3.7
-- konlpy
-- pandas
-- numpy
-- tensorflow
-- tensorflowjs
+- Konlpy
+- Pandas
+- Numpy
+- Tensorflow
+- Tensorflowjs
 
 # Author
 Hyunseung Kong / [@Gumgo91](https://github.com/Gumgo91) (antibody91@naver.com)
@@ -33,6 +33,6 @@ Hyunseung Kong / [@Gumgo91](https://github.com/Gumgo91) (antibody91@naver.com)
 Mr. Question Mark / https://github.com/mrquestion
 
 # References
-- tensorflow.js API: https://js.tensorflow.org/api/latest/?hl=ko
+- Tensorflow.js API: https://js.tensorflow.org/api/latest/?hl=ko
 - Seq2Seq model: https://github.com/deepseasw/seq2seq_chatbot
-- javascript frontend: https://dororongju.tistory.com/151
+- Javascript frontend: https://dororongju.tistory.com/151
