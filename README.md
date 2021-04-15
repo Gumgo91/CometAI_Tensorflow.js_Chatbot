@@ -30,7 +30,8 @@
 Hyunseung Kong / [@Gumgo91](https://github.com/Gumgo91) (antibody91@naver.com)
 
 # Thanks to
-Mr. Question Mark / https://github.com/mrquestion
+- Mr. Question Mark / https://github.com/mrquestion
+- Hyeseong Lee / https://github.com/leec0m3t
 
 # References
 - Tensorflow.js API: https://js.tensorflow.org/api/latest/?hl=ko
