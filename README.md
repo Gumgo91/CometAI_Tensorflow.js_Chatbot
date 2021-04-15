@@ -1,4 +1,4 @@
-# Tensorflow.js 기반 한국어 seq2seq based Chatbot
+# Tensorflow.js 기반 한국어 Seq2Seq based Chatbot
 카카오톡 단톡방 대화에서 자동으로 대화를 추출하여 대화를 학습하고 쉽게 챗봇을 구성할 수 있는 패키지입니다.
 
 [예제사이트는 이곳](http://blcat.kr/aichat/)에서 확인하실 수 있습니다.
